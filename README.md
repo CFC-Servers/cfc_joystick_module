@@ -5,6 +5,7 @@
 ## Instructions:
 
 ### As a user:
+---
 Download [this file](https://github.com/MattJeanes/Joystick-Module/raw/master/lua/bin/gmcl_joystick_win32.dll) from the original project and put it in your `garrysmod/garrysmod/lua/bin/` folder (create that folder if it doesn't exist.)
 
 **Please Note:** While many people use this exact file without problem, you need to know that you can't see what's inside of this file as it's compiled source code. This means it could be doing _anything_ behind the scenes and you wouldn't know it. Again, while this is very probably fine, you should still be aware of the rist.
@@ -13,4 +14,5 @@ Still want to use this addon but don't trust the compiled code? Luckily the sour
 
 
 ### As a server owner:
+---
 Just install this addon, ya' dingus.
