@@ -137,7 +137,7 @@ function ENT:PollJoystick(pl_upd)
 	local pl
 	if self.Pod then
 		if self.Pod:IsValid() then
-			pl = self.Pod:GetPassenger()
+			pl = self.Pod:GetDriver()
 		end
 	else
 		pl = self:GetPlayer()
